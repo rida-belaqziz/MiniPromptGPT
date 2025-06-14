@@ -35,8 +35,6 @@ public:
     bool saveToFile();
 
 
-    // enregistrer les prompts et leurs reponses dans une base de données (not: ODB et SOC)
-    bool LoadPromptToSql();
 
 
 

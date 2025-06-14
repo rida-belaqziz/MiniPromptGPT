@@ -112,9 +112,6 @@ bool PromptManager::saveToFile() {
     }
 }
 
-bool PromptManager::LoadPromptToSql() {
-
-}
 
 
 
