@@ -1,0 +1,5 @@
+/Users/ridabelaqziz/Desktop/Revision2025/minipromptGPT/build/CMakeFiles/minipromptGPT.dir
+/Users/ridabelaqziz/Desktop/Revision2025/minipromptGPT/build/CMakeFiles/edit_cache.dir
+/Users/ridabelaqziz/Desktop/Revision2025/minipromptGPT/build/CMakeFiles/rebuild_cache.dir
+/Users/ridabelaqziz/Desktop/Revision2025/minipromptGPT/build/_deps/json-build/CMakeFiles/edit_cache.dir
+/Users/ridabelaqziz/Desktop/Revision2025/minipromptGPT/build/_deps/json-build/CMakeFiles/rebuild_cache.dir

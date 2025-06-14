@@ -1,0 +1,3 @@
+/Users/ridabelaqziz/Desktop/Revision2025/minipromptGPT/build/_deps/json-subbuild/CMakeFiles/json-populate.dir
+/Users/ridabelaqziz/Desktop/Revision2025/minipromptGPT/build/_deps/json-subbuild/CMakeFiles/edit_cache.dir
+/Users/ridabelaqziz/Desktop/Revision2025/minipromptGPT/build/_deps/json-subbuild/CMakeFiles/rebuild_cache.dir
